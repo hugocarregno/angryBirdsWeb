@@ -10,7 +10,7 @@ Gracias a @lrusso por el codigo compartido.
 
 ## Web:
 
-https://lrusso.github.io/AngryBirds/AngryBirds.htm
+https://hugocarregno.github.io/angryBirdsWeb/AngryBirdsGame.htm
 
 ## Disclaimer
 
