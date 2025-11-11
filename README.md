@@ -2,7 +2,10 @@
 
 Juego de Angry Birds en javascript para la materia Adaptación al Ambiente de trabajo 7 I.
 
-"El proyecto consistio en analizar el codigo de angry birds y personalizarlo".
+"El objetivo de la materia es solucionar problemas de softare en el ambito laboral, es por ellos que a veces se debe elegir empezar de nuevo un proyecto o modificar lo existente."
+
+"El proyecto consistio en analizar el codigo de angry birds y personalizarlo para poder jugarlo tanto en computadora como en celular".
+
 
 Gracias a @lrusso por el codigo compartido.
 
