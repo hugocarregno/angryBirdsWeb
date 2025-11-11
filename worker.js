@@ -7,7 +7,8 @@ const filesToCache = [
 	"AngryBirdsFavIcon_512x512.png",
 	"AngryBirdsGame.htm",
 	"AngryBirdsGame.js",
-	"AngryBirdsShare.png"
+	"AngryBirdsShare.png",
+	"Logo-Berni.png"
 ];
 
 const staticCacheName = "angrybirds-v1";
