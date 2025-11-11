@@ -17,7 +17,7 @@ Versión Adaptada
 
 ## Web:
 
-https://hugocarregno.github.io/angryBirdsWeb/v1/AngryBirdsGame.htm
+https://hugocarregno.github.io/angryBirdsWeb/v1/AngryBirds.htm
 
 ## Disclaimer
 
