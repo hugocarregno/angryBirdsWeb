@@ -9,11 +9,15 @@ Juego de Angry Birds en javascript para la materia Adaptación al Ambiente de tr
 
 Gracias a @lrusso por el codigo compartido.
 
-![alt screenshot](https://raw.githubusercontent.com/hugocarregno/angryBirdsWeb/master/qr.png)
+Versión Original
+![alt screenshot](https://raw.githubusercontent.com/hugocarregno/angryBirdsWeb/master/qrv0.png)
+
+Versión Adaptada
+![alt screenshot](https://raw.githubusercontent.com/hugocarregno/angryBirdsWeb/master/qrv1.png)
 
 ## Web:
 
-https://hugocarregno.github.io/angryBirdsWeb/AngryBirdsGame.htm
+https://hugocarregno.github.io/angryBirdsWeb/v1/AngryBirdsGame.htm
 
 ## Disclaimer
 
